@@ -1,0 +1,7 @@
+cloudscraper==1.2.71
+discord_interactions==0.4.0
+psutil==6.1.0
+pyttsx3==2.98
+requests==2.32.3
+win32security==2.1.0
+wmi==1.5.1
